@@ -1,0 +1,45 @@
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe.config
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\bin\Debug\aula_01-10.pdb
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\bin\Debug\MySql.Data.dll
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csprojResolveAssemblyReference.cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Form1.resources
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Properties.Resources.resources
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.GenerateResource.Cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.CoreCompileInputs.cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01-10.exe
+C:\Users\alunos.ENSINO\source\repos\aula_01-10\aula_01-10\obj\Debug\aula_01-10.pdb
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe.config
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.pdb
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\bin\Debug\MySql.Data.dll
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csprojResolveAssemblyReference.cache
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Form1.resources
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Properties.Resources.resources
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.GenerateResource.Cache
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.CoreCompileInputs.cache
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.exe
+C:\Users\Caike\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.pdb
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe.config
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\bin\Debug\aula_01-10.pdb
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\bin\Debug\MySql.Data.dll
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csprojResolveAssemblyReference.cache
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Form1.resources
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Properties.Resources.resources
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.GenerateResource.Cache
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.CoreCompileInputs.cache
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.exe
+C:\Users\alunos.ENSINO\Desktop\aula_01-10\aula_01-10\obj\Debug\aula_01-10.pdb
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe.config
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\bin\Debug\aula_01-10.exe
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\bin\Debug\aula_01-10.pdb
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\bin\Debug\MySql.Data.dll
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csprojAssemblyReference.cache
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Form1.resources
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01_10.Properties.Resources.resources
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.GenerateResource.cache
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.CoreCompileInputs.cache
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.csproj.CopyComplete
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.exe
+C:\Users\heric\OneDrive\Documentos\6º Periodo\POO\Conexao_com_banco\aula_01-10\aula_01-10\obj\Debug\aula_01-10.pdb

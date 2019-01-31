@@ -1,0 +1,12 @@
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.csprojResolveAssemblyReference.cache
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria__HerickRaposo.Properties.Resources.resources
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria__HerickRaposo.MainForm.resources
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.csproj.GenerateResource.cache
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.csproj.CoreCompileInputs.cache
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\bin\Debug\VA3_Padaria_ HerickRaposo.exe.config
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\bin\Debug\VA3_Padaria_ HerickRaposo.exe
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\bin\Debug\VA3_Padaria_ HerickRaposo.pdb
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\bin\Debug\MySql.Data.dll
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.csproj.CopyComplete
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.exe
+D:\VA3_Padaria_ HerickRaposo\VA3_Padaria_ HerickRaposo\obj\Debug\VA3_Padaria_ HerickRaposo.pdb

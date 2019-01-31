@@ -1,0 +1,12 @@
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\bin\Debug\Agenda_05_11_model.exe.config
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\bin\Debug\Agenda_05_11_model.exe
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\bin\Debug\Agenda_05_11_model.pdb
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\bin\Debug\MySql.Data.dll
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.csprojResolveAssemblyReference.cache
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.Properties.Resources.resources
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.Form1.resources
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.csproj.GenerateResource.cache
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.csproj.CoreCompileInputs.cache
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.csproj.CopyComplete
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.exe
+C:\Users\alunos.ENSINO\source\repos\Agenda_05_11_model\Agenda_05_11_model\obj\Debug\Agenda_05_11_model.pdb

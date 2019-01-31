@@ -1,0 +1,11 @@
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\bin\Debug\aula_01-10-2018_sql.exe.config
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\bin\Debug\aula_01-10-2018_sql.exe
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\bin\Debug\aula_01-10-2018_sql.pdb
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\bin\Debug\MySql.Data.dll
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01-10-2018_sql.csprojResolveAssemblyReference.cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01_10_2018_sql.Form1.resources
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01_10_2018_sql.Properties.Resources.resources
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01-10-2018_sql.csproj.GenerateResource.Cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01-10-2018_sql.csproj.CoreCompileInputs.cache
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01-10-2018_sql.exe
+C:\Users\alunos.ENSINO\source\repos\aula_01-10-2018_sql\aula_01-10-2018_sql\obj\Debug\aula_01-10-2018_sql.pdb

@@ -1,0 +1,13 @@
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\bin\Debug\OAT_Milton.exe.config
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\bin\Debug\OAT_Milton.exe
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\bin\Debug\OAT_Milton.pdb
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.csprojAssemblyReference.cache
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.Properties.Resources.resources
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.MainForm.resources
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.csproj.GenerateResource.cache
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.exe
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.pdb
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\bin\Debug\MySql.Data.dll
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.csproj.CopyComplete
+C:\Users\Milton\Desktop\C#\OAT_Milton\OAT_Milton\obj\Debug\OAT_Milton.View.JanelaAtualizacao.resources

@@ -1,0 +1,11 @@
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\bin\Debug\aula-22_10_18-update-delete.exe.config
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\bin\Debug\aula-22_10_18-update-delete.exe
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\bin\Debug\aula-22_10_18-update-delete.pdb
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\bin\Debug\MySql.Data.dll
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula-22_10_18-update-delete.csprojResolveAssemblyReference.cache
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula_22_10_18_update_delete.Form1.resources
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula_22_10_18_update_delete.Properties.Resources.resources
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula-22_10_18-update-delete.csproj.GenerateResource.Cache
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula-22_10_18-update-delete.csproj.CoreCompileInputs.cache
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula-22_10_18-update-delete.exe
+C:\Users\alunos.ENSINO\Desktop\C#\aula-22_10_18-update-delete\aula-22_10_18-update-delete\obj\Debug\aula-22_10_18-update-delete.pdb
